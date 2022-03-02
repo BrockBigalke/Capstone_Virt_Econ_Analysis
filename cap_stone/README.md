@@ -14,24 +14,12 @@ What is the Grand Exchange? Is the market for players in OSRS. What makes it uni
 
 ## Problem Statement: 
 
-This project is intended to look at the affect of adding a 1% tax to the virtual exchange has on the economy.
-
-## Data Dictionary:
-
-TO BE FINISHED
-
-
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-|Particiation |float |ACT |Percent of graduating students per state that took the ACT.|
-|Composite |float |ACT |Average of composite score of students in a given state.|
-|Particiation|float |SAT | Percent of graduating students per state that took the SAT.|
-|Total |object |SAT |Average of total score of students in a given state. |
+This project is intended to look at the economy of a virtual game. There was recently a 1% tax added to the online market and studying its affect could be of value to 
 
 
 ## Summary:
 
-The purpose of this project is to look at how prices and trade volumes in a virtual economy differ over time along with a look at the introduction of a tax on a market. 
+The purpose of this project is to look at how prices and trade volumes in a virtual economy differ over time along with a observe the affects of an introduction of a tax on a market. This project was intended to help me get experience in web scraping and API pulls which it forced me to do to gather the data from four different websites. Although I was not able to produce any meaningful findings yet, I believe with more time I can produce useful models and visualizations.
 
 
 ## Resources:
